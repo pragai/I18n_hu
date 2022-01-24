@@ -1,0 +1,5 @@
+---
+- name: Hungary
+  country_id: "348"
+  id: "101"
+  abbr: HUN
